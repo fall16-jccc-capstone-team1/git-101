@@ -7,3 +7,7 @@ Adding more lines to file
 Like this one
 And this one
 But not this one
+
+bool whatHasHappened (string h) {
+  if (h == "Dude" || h == "Man") return 1;
+  else if (h == "Whoa" || h == "Totally") return 0; }
