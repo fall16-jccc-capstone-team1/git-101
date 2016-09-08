@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head><meta name="robots" content="noindex,nofollow" />
+        <title>Check out short-term classes</title>
+        
+        
+        
+    <meta charset="utf-8"/>
+    <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+    <meta content="width=device-width,initial-scale=1.0" name="viewport"/>
+    <link href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAwFBMVEX////n4Gv06ZU+c4YljkuJp7PG0S++ujApaXdffY0AlLWm2uXzzxLzzQf38sF9kp4bPFEoRllQaXoUkoJNn0PQ7PLDzyT11zb10BNRtsz6+Ny9ytANh6Hoyxo5rMfQ10nCxzE8V2mvxzKdsrx4x9fAvC/9/O/i9vpurD4IkqnUxCUAj7DT3OAonrjw8/QdMj39/v7f5ej2+vrO1S3q7/H8/f39/f7///35/f7///7+/v709/iZvzv4+vvfyB/+/fU7DsS0AAAC6ElEQVRYw+1Wa3OiQBCUBRRkgYUkQDCRGAJ3BlT0EnmYnP//X90gD1kk8ZFPV2WXVdYWdE/P7DC7vd4VV/wviBNF+ZGA4hiOH13Kjmymb/QNdHF4BPR+33BW6UmvSxJlNV0xOT1XOK0Kq1kwlhpr2yn5YOGUIrxLwTAI7u/q9Gs+wD6lYONgOBwGU6kdP7eAkqP85G5YIHjJl9smv28wJzh4CSqFe1gxTT5gFR91MKsEwEOktPj94/tQZVAoOC2+oSTHWkEKGgo3z39aAig9uQQ7gdu2AJMca4X7hsCU4z5aCrANtoIQA0BIsbffC9xwXMuCwSDTwnIFy2SQHdNZjWkB7okSeH6VMcZWCZxLYdP+zgGVw5M3+AusHap/LGO72RtRs4jA537vBZ4G3uCxJtYw0y+38YYSyPneAR3LiGrO6NfwCwHge4PXQwNW1ZzzcOTyPO/OHmiBOn9ARwayWdBHqsgKQvETHvZ9UDsA+4MuA3I5KHmBrQAKwrSuYrkLuwQ83GHAL77BkGUphYcqh/JryP13bUFloLcRWwqFB+62rsBg3wNNA1UTJK5ACwiFhbIEQPc6+HsDvd6SZWkPRRIflYD32MU3Gz3QKGOhkPPHyCgy+Gt18LHV/AzeWBrCNAgCCYaiYTiO3MmHBJpdOBJoBfdlNo4S23GUrSlj/G0ByiRoB3wvWkFv+1Hkm518Jm6Ngk+6DOJ7dTWw5UMHMsRP2wMyc5sO1PoU8hmrJSHLprLtOiKWokYWiwXRWH5Z89O4ZyNzN31Ktmwhv/OEeVM1oumqKupEDKnxG8cKMnfjEOeD0I/jLoFQJ0DcxvF2M9KJe/A8sxWAnQdPu86H5YQQNc0yeJhmIeGz9ktHDpUNxFerWGt1Mj/3IqRC+lndVcRdZ2fR30NN09QyajYi4vp8A0TTJqobhqErEn2enSswH0EPkAXIEKjF5oLL4Dpbuqqu6xOdD7MLL5TZOvoEpfWl/Cuu+BH+AZkkZglGG6L2AAAAAElFTkSuQmCC" rel="icon" type="image/png"/>
+    <link href="data:image/png;base64,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" rel="apple-touch-icon"/>
+    <!-- Bootstrap Core CSS -->
+     <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet"/> 
+    <!-- Font Awesome -->
+     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"/> 
+    <link href="/_files/A.vendor,,_weather-icons-1.3.2,,_css,,_weather-icons.min.css+vendor,,_geedmo,,_yamm3,,_yamm,,_yamm.css+vendor,,_Gallery-2.18.1,,_css,,_blueimp-gallery.min.css+vendor,,_lightbox-4.0.1,,_dist,,_ekko-lightbox.min.css+css,,_style.css,Mcc.xian5i1vIL.css.pagespeed.cf.hxXrdilIk6.css" rel="stylesheet"/>
+    <!-- Mega Menu -->
+    
+    <!-- Gallery -->
+    
+    
+    <!-- Custom styles for this template -->
+    
+    <!-- JavaScript -->
+     <script src="//code.jquery.com/jquery-1.10.2.min.js" type="text/javascript"></script> 
+     <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js" type="text/javascript"></script> 
+    <!-- News and event feeds -->
+    <link href="/feeds/atom.xml" rel="alternate" title="Recent News" type="application/atom+xml"/>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    </head>
+    <body>
+        
+        
+            <system-region name="DEFAULT">
+
+</system-region>
+            <div class="navbar navbar-default" id="global-navigation" role="navigation">
+    <div class="navbar-search-collapse collapse" id="navbar-search-collapse">
+        <form action="/search.html" class="navbar-form navbar-left visible-xs" role="search">
+            <div class="form-group">
+                <input aria-label="Search" autocomplete="off" class="form-control" id="global-cse-search-input-box-id" name="q" placeholder="Search JCCC" type="text"/>
+            </div>
+        </form>
+    </div><!-- /.navbar-search-collapse -->
+    <div class="navbar-header">
+        <button aria-label="Toggle navigation" class="navbar-toggle" data-target="#global-navigation-collapse" data-toggle="collapse" type="button">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <button aria-label="Toggle search" class="navbar-search-toggle visible-xs" data-target="#navbar-search-collapse" data-toggle="collapse" type="button">
+            <span aria-hidden="true" class="glyphicon glyphicon-search"></span>
+            <span class="sr-only">Toggle search</span>
+        </button>
+        <a class="navbar-brand visible-xs" href="/index.html"><span class="sr-only">Johnson County Community College</span></a>
+    </div><!-- /.navbar-header -->
+    <div class="navbar-collapse collapse pull-right" id="global-navigation-collapse">
+        <ul class="nav navbar-nav global-nav">
+
+                                    
+                                                
+    
+        
+                        
+        
+                
+                                
+    
+        
+                <li class="home">
+            <a href="/index.html">
+                                     <span class="glyphicon glyphicon-home"></span>  
+                            JCCC Home</a>
+        </li>
+                                                        
+    
+        
+                    
+        
+        
+            
+        <li class="dropdown ">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Login  <i class="fa fa-chevron-down"></i>  </a>
+            <ul class="dropdown-menu">
+                                                        
+    
+                
+        
+            
+                        <li><a class="ga-event" data-category="custom-link" href="https://my.jccc.edu"> <i class="fa fa-chevron-right"></i>   MyJCCC</a></li>
+                                                    
+    
+                
+        
+            
+                        <li><a class="ga-event" data-category="custom-link" href="https://touchnet151-px.rtrk.com/C20110_tsa/web/caslogin.jsp"> <i class="fa fa-chevron-right"></i>   My Finances</a></li>
+                                                    
+    
+                
+        
+            
+                        <li><a class="ga-event" data-category="custom-link" TARGET="_blank" href="https://online.jccc.edu"> <i class="fa fa-chevron-right"></i>   Desire2Learn</a></li>
+                                                    
+    
+                
+            
+            
+                        <li><a class="ga-event" data-category="external-link" href="https://password.jccc.edu/Pages/default.aspx"> <i class="fa fa-chevron-right"></i>   Password Reset</a></li>
+                                                    
+    
+                
+        
+            
+                        <li><a class="ga-event" data-category="custom-link" href="https://login.microsoftonline.com/"> <i class="fa fa-chevron-right"></i>   Office 365</a></li>
+                                        </ul>  
+        </li>
+    
+    
+                                                        
+    
+        
+                    
+        
+        
+            
+        <li class="dropdown ">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Classes  <i class="fa fa-chevron-down"></i>  </a>
+            <ul class="dropdown-menu">
+                                                        
+    
+                
+        
+            
+                        <li><a class="ga-event" data-category="custom-link" href="http://jccc37-px.rtrk.com/class/search/term_type/Credit"> <i class="fa fa-chevron-right"></i>   Credit Class Search</a></li>
+                                                    
+    
+                
+        
+            
+                        <li><a class="ga-event" data-category="custom-link" href="http://jccc37-px.rtrk.com/class/results/term_type/Credit/section_delivery_method/ONLNE?ecid=classesmenu"> <i class="fa fa-chevron-right"></i>   Online Credit Class Search</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/admissions/high-school/college-now/schedules.html"> <i class="fa fa-chevron-right"></i>   College Now High School Classes</a></li>
+                                                    
+    
+                
+        
+            
+                        <li><a class="ga-event" data-category="custom-link" href="http://jccc37-px.rtrk.com/class/search/term_type/ContinuingEd"> <i class="fa fa-chevron-right"></i>   Continuing Ed Class Search</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/continuing-education/online.html"> <i class="fa fa-chevron-right"></i>   Online Continuing Ed Classes</a></li>
+                                                    
+    
+                
+        
+            
+                        <li><a class="ga-event" data-category="custom-link" href="http://jccc42-px.rtrk.com"> <i class="fa fa-chevron-right"></i>   Catalog</a></li>
+                                        </ul>  
+        </li>
+    
+    
+                                                        <li class="divider"/>
+                                    
+    
+        
+                        
+        
+            
+        
+                <li class="nope">
+            <a href="http://urlmetaweb--jccc--edu.rtrk.com/general/EmployeeDirectory">
+                            Directory</a>
+        </li>
+                                                        
+    
+        
+                        
+        
+                
+                        
+    
+            
+                <li class="nope">
+            <a href="/about/campus/maps/index.html">
+                            Maps</a>
+        </li>
+                                                        
+    
+        
+                        
+        
+                
+                        
+    
+        
+                <li class="nope">
+            <a href="/az-index.html">
+                            A-Z Index</a>
+        </li>
+                                                        
+    
+            
+                    
+        
+            
+            
+        <li class="dropdown unfold visible-xs">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Footer Column 1  <i class="fa fa-chevron-down"></i>  </a>
+            <ul class="dropdown-menu">
+                                                        
+    
+            
+            
+            
+                        <li><a href="/about/index.html"> <i class="fa fa-chevron-right"></i>   About JCCC</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/academics/index.html"> <i class="fa fa-chevron-right"></i>   Academics &amp; Training</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/admissions/index.html"> <i class="fa fa-chevron-right"></i>   Admissions</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/student-resources/index.html"> <i class="fa fa-chevron-right"></i>   Student Resources</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/professional-resources/index.html"> <i class="fa fa-chevron-right"></i>   Professional Services</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/community-resources/index.html"> <i class="fa fa-chevron-right"></i>   Community Services</a></li>
+                                        </ul>  
+        </li>
+    
+    
+                                                        
+    
+            
+                    
+        
+            
+            
+        <li class="dropdown unfold visible-xs">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Footer Column 2  <i class="fa fa-chevron-down"></i>  </a>
+            <ul class="dropdown-menu">
+                                                        
+    
+            
+            
+            
+                        <li><a href="/newsroom/index.html"> <i class="fa fa-chevron-right"></i>   Newsroom</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/events/index.html"> <i class="fa fa-chevron-right"></i>   Events</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/about/leadership-governance/administration/index.html"> <i class="fa fa-chevron-right"></i>   Administration</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/about/leadership-governance/administration/human-resources/careers.html"> <i class="fa fa-chevron-right"></i>   Careers</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/about/contacts.html"> <i class="fa fa-chevron-right"></i>   Contact Us</a></li>
+                                                    
+    
+                
+        
+            
+                        <li><a class="ga-event" data-category="custom-link" href="http://my.textcaster.com/asa/Default.aspx?ID=cf6d3f01-dc54-4d2e-a5c7-82aad6f41fd2"> <i class="fa fa-chevron-right"></i>   TXTJCCC</a></li>
+                                        </ul>  
+        </li>
+    
+    
+                                                        
+    
+            
+                    
+        
+            
+            
+        <li class="dropdown unfold visible-xs">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Footer Column 4  <i class="fa fa-chevron-down"></i>  </a>
+            <ul class="dropdown-menu">
+                                                        
+    
+            
+            
+            
+                        <li><a href="/admissions/financial-aid/consumer-information/index.html"> <i class="fa fa-chevron-right"></i>   Consumer Information</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/about/leadership-governance/policies/accessibility-statement.html"> <i class="fa fa-chevron-right"></i>   Accessibility</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/about/leadership-governance/policies/nondiscrimination-statement.html"> <i class="fa fa-chevron-right"></i>   Non-Discrimination</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/about/leadership-governance/policies/privacy.html"> <i class="fa fa-chevron-right"></i>   Privacy</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/about/leadership-governance/policies/terms-of-use.html"> <i class="fa fa-chevron-right"></i>   Terms of Use</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/about/leadership-governance/copyright/index.html"> <i class="fa fa-chevron-right"></i>   Copyright</a></li>
+                                        </ul>  
+        </li>
+    
+    
+                    
+        </ul><!-- /.nav -->
+    </div><!-- /.navbar-collapse -->
+</div>
+        
+
+        <div class="container" id="site-search">
+            <div class="row">
+                <div class="col-md-4 col-sm-3">
+                    <a class="hidden-xs logo" href="/index.html"><img alt="Johnson County Community College" src="/_files/img/305xNxlogo2x.png.pagespeed.ic.AQQkswiKYp.png" width="305"/></a>
+                </div>
+                <div class="search-input col-md-5 col-md-offset-3 col-sm-offset-6">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <div class="landing-addl-info text-right">
+
+                    
+                
+    </div>
+
+
+                </div>
+                <!-- /.col -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+        
+        <!-- new -->
+        <div class="container" id="media">
+            
+<style>#content{margin-top:10px}.column-title{border:0!important;padding:14px!important}</style>
+
+
+       
+    <!-- Image -->
+    
+            <div class="column column-image media">
+            <div class="column-inner">
+                <img alt="" class="img-responsive center-block" src="/campaigns/enroll-16/_files/xlate-start-3x1b-1920x640.jpg.pagespeed.ic.-z3EEM3ihy.jpg"/>
+                <h1 class="h5 column-title">
+                    <span class="title">Check out short-term classes</span>
+                                            <br/><span class="caption">There's still time to enroll for fall classes.</span>
+                                    </h1>    
+            </div><!-- /.column-inner -->
+        </div><!-- /.column -->
+    
+        </div>
+        
+        <div class="container" id="landing-primary-navigation">
+            
+        </div>
+        
+        <div class="container" id="landing-secondary-navigation">
+            <div class="row">
+                <div class="col-md-12">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>#content{margin-top:30px}.column-title{border:0!important;padding:14px!important}.default-content{text-align:center;padding:0 20px}.default-content h2{color:#003d4c}.default-content p{font-size:120%}#tabbed-navigation{margin:0}#sidebar .callout{margin-top:0}@media (max-width:991px){#content{margin-top:0}#media .column-title{font-size:60%;position:relative!important}#media{margin-top:16px}.share-buttons{margin-bottom:10px}}@media (max-width:767px){#content{margin-top:0}#media .column-title{font-size:60%;position:relative!important}.share-buttons{margin-bottom:10px}.column-title .title{display:block;margin-bottom:4px!important}}</style>
+
+
+
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </div>
+                <!-- /.col -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+
+       <div class="container landing one-column" id="content">
+            <div class="row">
+                <div class="col-md-12">
+                    
+                    
+                    
+                    
+                    
+
+
+
+
+<div class="default-content">
+<h2 style="text-align: center;">Dare to discover.</h2>
+<div style="text-align: center;">At JCCC, you can choose when, where and how to learn. Great value, online classes and flexible schedules let you customize your education.</div>
+<h2 style="text-align: center;">Where are you headed?</h2>
+<div style="text-align: center;">Begin your journey to bigger and better opportunities. Choose from a variety of degree options and career choices.</div>
+<div style="text-align: center;">&#160;</div>
+<div class="row calls-to-action">
+<div class="col-sm-6"><a class="btn btn-lg btn-primary btn-block" href="http://jccc37-px.rtrk.com/class/results/term_type/Credit?query=keywords%3Ashortterm">Search for short-term classes</a></div>
+<div class="col-sm-6"><a class="btn btn-lg btn-primary btn-block" href="https://my.jccc.edu/">Log in to enroll</a></div>
+</div>
+<style type="text/css">#content{margin-top:20px!important}.default-content{text-align:center;padding:0}.calls-to-action{background-color:#ececed;padding:0 0 0 15px;margin:0}.calls-to-action .col-sm-6,.calls-to-action .col-sm-12{padding:15px 15px 15px 0;margin:0}#media{font-size:160%}#media .caption{display:block;margin-top:8px}#landing-secondary-navigation .col-md-4 .widget{min-height:0;background-color:transparent;color:#5a5a5a}#landing-secondary-navigation .col-md-4 .widget h4{font-size:x-large;text-align:center}@media (max-width:991px){#landing-secondary-navigation .col-md-12 .row:not(.cta) {background-color:#ececed}}@media (min-width:992px){#landing-secondary-navigation .col-md-4{width:49.98%}}@media (max-width:767px){.calls-to-action{padding:0 0 15px 15px;margin:0}.calls-to-action .col-sm-6{padding:15px 15px 0 0;margin:0}#media .caption{display:block;margin-top:0}}</style>
+</div>
+                    
+
+
+
+
+        
+        
+        
+    
+                    
+                    
+                    <div class="share-buttons">
+    <!-- AddThis Button BEGIN -->
+    <div class="addthis_sharing_toolbox"></div>
+    <script async="async" type="text/javascript">var addthis_config={"data_track_addressbar":false};</script>
+     <script defer="defer" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f6ce85e13530205" type="text/javascript"></script> 
+    <!-- AddThis Button END -->
+</div>
+                </div>
+                <!-- /.col -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+        
+        
+    <!-- The Gallery as lightbox dialog, should be a child element of the document body -->
+    
+<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls"><div class="slides"></div><h3 class="title"></h3><p class="description"></p><a class="prev">‹</a><a class="next">›</a><a class="close">×</a><a class="play-pause"></a><ol class="indicator"></ol></div>
+
+
+        
+        <!-- /new -->
+                
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-2 col-md-2">
+                        
+                    </div>
+                    <!-- Footer Menu -->
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+            <div class="col-md-12" style="text-align: center;">
+            <ul class="list-inline">
+                                        
+    
+            
+            
+            
+                        <li><a href="/index.html"> JCCC Home</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/admissions/financial-aid/consumer-information/index.html"> Consumer Information</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/about/leadership-governance/policies/accessibility-statement.html"> Accessibility</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/about/leadership-governance/policies/nondiscrimination-statement.html"> Non-Discrimination</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/about/leadership-governance/policies/privacy.html"> Privacy</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/about/leadership-governance/policies/terms-of-use.html"> Terms of Use</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/about/leadership-governance/copyright/index.html"> Copyright</a></li>
+                                                    
+    
+            
+            
+            
+                        <li><a href="/student-resources/police-safety/police-department/index.html"> JCCC Campus Police</a></li>
+                                        </ul>
+        </div>
+    
+                    <!-- Social Menu -->
+                    <div class="col-sm-2 col-md-2">
+                        
+                    </div>
+                </div>
+                <!-- /.row -->
+                <div class="row" id="footer-address">
+                    <div class="col-md-12">
+                        &#169; 2016 Johnson County Community College &#160;&#160;<br/>
+ 12345 College Blvd &#160;&#160;<br/>
+ Overland Park, KS &#160;&#160; 66210-1299 &#160;&#160;<br/>
+ <a href="tel:9138711669">913-871-1669</a>
+                    </div>
+                </div>
+                <div class="row" id="police-dept">
+                    <div class="col-md-12">
+                        
+                    </div>
+                </div>
+            </div>
+            <!-- /.container -->
+        </footer>
+        
+
+<!-- Analytics -->
+
+<!-- Google Analytics -->
+<script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-395939-1','auto');ga('require','displayfeatures');ga('require','linkid');ga('send','pageview');ga('create','UA-395939-18','auto',{'name':'secondTracker'});ga('secondTracker.require','displayfeatures');ga('secondTracker.require','linkid');ga('secondTracker.send','pageview');</script>
+
+<!-- Spectate -->
+<script type="text/javascript">var sAId="176";var sCId="799";(function(){function async_load(){var s=document.createElement('script');s.type='text/javascript';s.src=(('https:'==document.location.protocol)?"https://ssl.spectate.com":"http://cdn.spectate.com")+"/s.js";var c=document.getElementsByTagName('script')[0];c.parentNode.insertBefore(s,c);}if(window.attachEvent){window.attachEvent('onload',async_load);}else{window.addEventListener('load',async_load,false);}})();</script>
+
+<!-- Crazy Egg -->
+<script type="text/javascript">setTimeout(function(){var a=document.createElement("script");var b=document.getElementsByTagName("script")[0];a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0053/0673.js?"+Math.floor(new Date().getTime()/3600000);a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)},1);</script>
+
+<!-- ActOn -->
+<script>//<![CDATA[
+(function(w,a,b,d,s){w[a]=w[a]||{};w[a][b]=w[a][b]||{q:[],track:function(r,e,t){this.q.push({r:r,e:e,t:t||+new Date});}};var e=d.createElement(s);var f=d.getElementsByTagName(s)[0];e.async=1;e.src='//info.jccc.edu/cdnr/44/acton/bn/tracker/20072';f.parentNode.insertBefore(e,f);})(window,'ActOn','Beacon',document,'script');ActOn.Beacon.track();
+//]]></script>
+
+
+
+        
+    <!-- JavaScript -->
+    <script src="/_files/js,_main.js+vendor,_jquery-cookie-1.4.1,_jquery.cookie.js.pagespeed.jc.Ptqmp55eSL.js"></script><script>eval(mod_pagespeed_DHOadI0Hs5);</script>
+    <script>eval(mod_pagespeed_eVhe3Jsd_r);</script>
+    <script src="/_files/vendor/Gallery-2.18.1/js/blueimp-gallery.min.js"></script>
+    <script src="/_files/vendor/lightbox-4.0.1,_dist,_ekko-lightbox.min.js+bootstrap-hover-dropdown-2.1.3,_bootstrap-hover-dropdown.min.js.pagespeed.jc.QQKukb-B41.js"></script><script>eval(mod_pagespeed_yBe8sfUnzZ);</script>
+    <script>eval(mod_pagespeed_5Ijcv9GCbi);</script>
+    <script async="async" defer="defer" src="//www.youvisit.com/tour/Embed/js2"></script>
+     <script src="//jccc37-px.rtrk.com/widget/js" type="text/javascript"></script> 
+     <script>(function(){var cx='011538168035480347219:rhbol3ssekc';var gcse=document.createElement('script');gcse.type='text/javascript';gcse.async=true;gcse.src=(document.location.protocol=='https:'?'https:':'http:')+'//cse.google.com/cse.js?cx='+cx;var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(gcse,s);})();</script> 
+
+    </body>
+</html>
+<script type="text/javascript" src="//rtsys.rtrk.com/js/TrackLandingPage_src.js">
+</script>
+<script type="text/javascript">RL_TrackLandingPage();</script>
+
+   
+   
+   
+   
+   
+      <script src="http://i.simpli.fi/dpx.js?cid=25&action=100&segment=3431505&m=1"></script>
+   
+   <script type="text/javascript">
+      if (top==self || parent.frames[1].name=="RL_top") document.write('<CENTER> <A href="//rtsys.rtrk.com/w3c/proxy_privacy_policy.html?path=/coupon/d1878/1878362" TARGET="_blank">Cookie Disclosure</A></CENTER>');
+   </script>
+
+
+
+<script type="text/javascript">
+RL_setCookie ("RlocalTiming", "retarget=1&retarget_off=1&track_landing_pages=1&landing_loadtime_off=1&retarget_none=50_293078_1|50_293526_1|50_294441_1|50_295603_1", null, "/", ".rtrk.com");
+</script>
