@@ -1,3 +1,9 @@
 This is a test file for dchaponniere
 
+
 Test
+
+Adding more lines to file
+Like this one
+And this one
+But not this one
