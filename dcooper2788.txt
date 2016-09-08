@@ -1,2 +1,6 @@
 This is a test file for dcooper2788.
+<<<<<<< HEAD
 I am messing with your stuff!
+=======
+Modifying the file!!
+>>>>>>> origin/master
