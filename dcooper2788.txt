@@ -1,5 +1,12 @@
 This is a test file for dcooper2788.
+<<<<<<< HEAD
+I am messing with your stuff!
+=======
 Modifying the file!!
+<<<<<<< HEAD
 doing it again!!!  :)
 -_-
 stuff
+=======
+>>>>>>> origin/master
+>>>>>>> 5233f4ab8af7829dcc85141a124408b34d4954b6
